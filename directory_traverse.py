@@ -4,8 +4,6 @@ import requests
 from colorama import Fore
 import argparse
 from tqdm import tqdm
-import os
-
 
 def brute(url,file_path):
     hits = []
